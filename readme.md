@@ -2,7 +2,7 @@
 This is a demo project showing how a machine learning model can be deployed to the Heroku cloud and interacted with using a flask webapp.
 
 ## Website
-The actual example site can be browsed by clicking on this [link](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)
+The actual example site can be seen by browsing to [https://demo-flask-heroku.herokuapp.com](https://demo-flask-heroku.herokuapp.com)
 
 ## Training Dataset
 The model was trained using the Fish market dataset as obtainable from [https://www.kaggle.com/aungpyaeap/fish-market](https://www.kaggle.com/aungpyaeap/fish-market).
